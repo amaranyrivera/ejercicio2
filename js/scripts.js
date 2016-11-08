@@ -1,1 +1,4 @@
-// JavaScript Document
+function mostrarNombre(color){
+	alert("el color de la columna es: " +color);
+
+}
